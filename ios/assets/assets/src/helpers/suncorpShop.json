@@ -1,0 +1,231 @@
+{
+    "logos":[
+        {
+            "id":1,
+            "icon":"SUNCORPLOGO"
+        },
+        {
+            "id":2,
+            "icon":"AAMILOGO"
+        },
+        {
+            "id":3,
+            "icon":"CILLOGO"
+        },
+        {
+            "id":4,
+            "icon":"GIOLOGO"
+        },
+        {
+            "id":5,
+            "icon":"APIALOGO"
+        },
+        {
+            "id":6,
+            "icon":"SHANNONSLOGO"
+        },
+        {
+            "id":7,
+            "icon":"BINGLELOGO"
+        }
+    ],
+    "categories":[
+        {
+            "id":1,
+            "icon":"SHOP1",
+            "name":"Personal Banking",
+            "catList":[
+                {
+                    "id":1,
+                    "icon":"HOMETAB",
+                    "desc":"Home Loans"
+                },
+                {
+                    "id":2,
+                    "icon":"DOLLARROUND",
+                    "desc":"Everyday Accounts"
+                },
+                {
+                    "id":3,
+                    "icon":"CREDITCARD",
+                    "desc":"Credit Cards"
+                },
+                {
+                    "id":4,
+                    "icon":"PIGGYBANK",
+                    "desc":"Savings Accounts"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "icon":"SHOP2",
+            "name":"Car & Vehicle",
+            "catList":[
+                {
+                    "id":1,
+                    "icon":"CAR",
+                    "desc":"Comprehensive Car Insurance"
+                },
+                {
+                    "id":2,
+                    "icon":"CAR",
+                    "desc":"Third Party Property Damage Car Insurance"
+                },
+                {
+                    "id":3,
+                    "icon":"LICENSEPLATE",
+                    "desc":"CTP Insurance"
+                },
+                {
+                    "id":4,
+                    "icon":"LICENSEPLATE",
+                    "desc":"MAI Insurance"
+                },
+                {
+                    "id":5,
+                    "icon":"BIKE",
+                    "desc":"Comprehensive Motorcycle Insurance"
+                },
+                {
+                    "id":6,
+                    "icon":"BIKE",
+                    "desc":"Third Party Property Damage Motorcycle Insurance"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "icon":"SHOP3",
+            "name":"Home & Property",
+            "catList":[
+                {
+                    "id":1,
+                    "icon":"HOMETAB",
+                    "desc":"Home & Contents Insurance"
+                },
+                {
+                    "id":2,
+                    "icon":"SKYLINE",
+                    "desc":"Home Building Insurance"
+                },
+                {
+                    "id":3,
+                    "icon":"HOMETAB",
+                    "desc":"Contents Insurance"
+                },
+                {
+                    "id":4,
+                    "icon":"SKYLINE",
+                    "desc":"Contents Insurance - Fire & Theft only"
+                },
+                {
+                    "id":5,
+                    "icon":"HOMETAB",
+                    "desc":"Landlord building & Contents Insurance"
+                },
+                {
+                    "id":6,
+                    "icon":"SKYLINE",
+                    "desc":"Landlord building Insurance"
+                }
+            ]
+        },
+        {
+            "id":4,
+            "icon":"SHOP4",
+            "name":"Life & Income Protection",
+            "catList":[
+                {
+                    "id":1,
+                    "icon":"INSURANCE",
+                    "desc":"Life Insurance"
+                },
+                {
+                    "id":2,
+                    "icon":"DOLLARROUND",
+                    "desc":"Income Protection Insurance"
+                },
+                {
+                    "id":3,
+                    "icon":"INSURANCE",
+                    "desc":"Funeral Insurance"
+                }     
+            ]
+        },
+        {
+            "id":5,
+            "icon":"SHOP5",
+            "name":"Business",
+            "catList":[
+                {
+                    "id":1,
+                    "icon":"DOLLARROUND",
+                    "desc":"Barristers Professional Indemnity"
+                }
+            ]
+        },
+        {
+            "id":6,
+            "icon":"SHOP6",
+            "name":"Business Banking",
+            "catList":[
+                {
+                    "id":1,
+                    "icon":"DOLLARROUND",
+                    "desc":"Barristers Professional Indemnity"
+                }
+            ]
+        },
+        {
+            "id":7,
+            "icon":"SHOP7",
+            "name":"Super",
+            "catList":[
+                {
+                    "id":1,
+                    "icon":"DOLLARROUND",
+                    "desc":"Superannuation Accounts"
+                },
+                {
+                    "id":2,
+                    "icon":"DOLLARROUND",
+                    "desc":"Pension Accounts"
+                }
+            ]
+        },
+        {
+            "id":8,
+            "icon":"SHOP8",
+            "name":"Health",
+            "catList":[
+                {
+                    "id":1,
+                    "icon":"HEART",
+                    "desc":"Basic"
+                },
+                {
+                    "id":2,
+                    "icon":"HEALTHCARE",
+                    "desc":"Basic Plus"
+                },
+                {
+                    "id":3,
+                    "icon":"HEALTHCARE",
+                    "desc":"Everyday"
+                },
+                {
+                    "id":4,
+                    "icon":"HEART",
+                    "desc":"Everyday Plus"
+                },
+                {
+                    "id":5,
+                    "icon":"HEALTHCARE",
+                    "desc":"Health Insurance Top Hospital"
+                }
+            ]
+        }
+
+    ]
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>345504325334-0138bkjfshm5ju5d58gbuh9b9nofm349.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.345504325334-0138bkjfshm5ju5d58gbuh9b9nofm349</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBbR1KpC_QhQ8OlXJVhWqt5OkiZfDf3oqE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>345504325334</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.invia.mwallet.dev2</string>
+	<key>PROJECT_ID</key>
+	<string>mwallet-dev2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mwallet-dev2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:345504325334:ios:40d590461963acf18cb377</string>
+</dict>
+</plist>

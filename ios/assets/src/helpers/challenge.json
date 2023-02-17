@@ -1,0 +1,61 @@
+{
+    "user_id":1,
+    "header_title":"Do you dare?",
+    "challenges":[
+        {
+            "id":1,
+            "image":"GOODLIFE",
+            "icon":"The Good Life",
+            "title":"The Good Life",
+            "body":"Book travel and accomodation through one of the Holiday providers on mWallet to claim 250 Coins."
+        },
+        {
+            "id":2,
+            "image":"KUDOSKING",
+            "icon":"Kudos King",
+            "title":"Kudos King",
+            "body":"Use mWallet Gifts to reward 3 team members with a coffee kudos and earn 10 Gold Coins."
+        },
+        {
+            "id":3,
+            "image":"FASHIONISTA",
+            "icon":"Fashionista",
+            "title":"Fashionista",
+            "body":"Spend over $300 at any one of our fashion retailers and double your  coins for that transaction."
+        },
+        {
+            "id":4,
+            "image":"CHARITY",
+            "icon":"Charity Royale",
+            "title":"Charity Royale",
+            "body":"Spend 1,00 coins to one or more of our sponsered charities to claim your Gold Bullion!"
+        }
+    ],
+
+    "challengesSuncorp":[
+        {
+            "id":1,
+            "image":"GOAL",
+            "icon":"The Good Life",
+            "title":"Earn 1000 Points",
+            "body":"Complete this health survey and receive 1,000 points",
+            "participants":21
+        },
+        {
+            "id":2,
+            "image":"GOAL",
+            "icon":"Kudos King",
+            "title":"Earn 25,000 Points",
+            "body":"Sign up for a Suncorp Home Insurance policy online",
+            "participants":18
+        },
+        {
+            "id":3,
+            "image":"GOAL",
+            "icon":"Fashionista",
+            "title":"Earn 500 Points",
+            "body":"Successfully refer a friend to Home Insurance",
+            "participants":10
+        }
+    ]
+}

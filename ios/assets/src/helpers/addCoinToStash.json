@@ -1,0 +1,69 @@
+{
+    "user_id":1,
+    "challnege":{
+        "title":"Complete Some Challenges",
+        "desc":"Earn Bonus Coins by completing more challenges",
+        "challenges":[
+            {
+                "id":1,
+                "image":"GOODLIFE",
+                "title":"250 Coins",
+                "body":"Book 3 nights accomodation from one of our Holiday providers",
+                "participants":21
+            },
+            {
+                "id":2,
+                "image":"COFFEE",
+                "title":"10 Coins",
+                "body":"Treat your team to 3 coffees",
+                "participants":10
+            },
+            {
+                "id":3,
+                "image":"ITEM2BACK",
+                "title":"1000 Coins",
+                "body":"Complete your profile infomation online and earn 1000 Points",
+                "participants":15
+            }
+            
+        ]
+
+    },
+    "partner":{
+        "title":"Earn with partners",
+        "desc":"Bonus Coins offers available with eligible purchases",
+        "partners":[
+            {
+                "id":1,
+                "image":"DAVIDJONES",
+                "title":"David Jones",
+                "body":"Earn bonus Coins when you purchase before July 31",
+                "participants":8
+            },
+            {
+                "id":2,
+                "image":"JBHIFI",
+                "title":"JB Hi-Fi",
+                "body":"Earn 2x Coins when you purchase before July 31",
+                "participants":3
+            },
+            {
+                "id":3,
+                "image":"THEFORK",
+                "title":"The Fork",
+                "body":"The Fork - Earn 2x Coins when you dine at any paricipating resturants before August 30",
+                "participants":42
+            },
+            {
+                "id":4,
+                "image":"AMEX",
+                "title":"Amex",
+                "body":"Spend $5000 on your Amex over 2 months and earn 3X Bomus coins",
+                "participants":15
+            }
+            
+        ]
+
+    }
+    
+}

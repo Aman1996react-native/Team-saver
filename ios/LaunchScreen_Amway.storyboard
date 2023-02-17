@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="18122" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="VU4-F4-DVy">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18093"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="Q7w-o4-BXK">
+            <objects>
+                <viewController id="VU4-F4-DVy" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="BOI-ee-BxJ">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="LaunchScreen_amway" translatesAutoresizingMaskIntoConstraints="NO" id="EfR-WU-HuY">
+                                <rect key="frame" x="0.0" y="44" width="414" height="818"/>
+                            </imageView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="fub-OU-W9e"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="EfR-WU-HuY" firstAttribute="top" secondItem="fub-OU-W9e" secondAttribute="top" id="B9W-uA-tXs"/>
+                            <constraint firstItem="EfR-WU-HuY" firstAttribute="leading" secondItem="fub-OU-W9e" secondAttribute="leading" id="jQS-Gg-0Ob"/>
+                            <constraint firstItem="fub-OU-W9e" firstAttribute="trailing" secondItem="EfR-WU-HuY" secondAttribute="trailing" id="s42-Gy-agt"/>
+                            <constraint firstItem="fub-OU-W9e" firstAttribute="bottom" secondItem="EfR-WU-HuY" secondAttribute="bottom" id="vdd-K4-g9x"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="xYL-vZ-2x3" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-190" y="-512"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="LaunchScreen_amway" width="768" height="1024"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

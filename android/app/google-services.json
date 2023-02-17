@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555330306392",
+    "project_id": "teamsaver-invia",
+    "storage_bucket": "teamsaver-invia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555330306392:android:e51c018baf2c87354fe52d",
+        "android_client_info": {
+          "package_name": "com.invia.ts.rewards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555330306392-7mrqvn441ekmm85c6a4i1ge0n83m96ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDgwA8EGBMQPJxlAZYVrVY6fuaw2uHick"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555330306392-7mrqvn441ekmm85c6a4i1ge0n83m96ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

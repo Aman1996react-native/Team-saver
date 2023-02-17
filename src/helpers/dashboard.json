@@ -1,0 +1,66 @@
+{
+    "user_id":"1",
+    "horizontal_scroll_resource":{
+        "resource":[
+            {
+                "id":1,
+                "image":"COINBALANCE"
+            },
+            {
+                "id":2,
+                "image":"TIERSTATUS"
+            }
+        ]
+    },
+    "savings_resource":{
+        "saved_money":"$1530.50",
+        "image":"SAVINGS"
+    },
+
+    "hp_Resource":{
+        "hp_coin_offer_resource":{
+            "coin_offer":"5000",
+            "likes":"609"
+        },
+        "image":"HPOFFER",
+        "description":"The latest devices to help you work and play from home.",
+        "earn_upto":"5000"
+    },
+
+    "daily_offers_resource":{
+        "likes":"609",
+        "horizontal_scrollable_resources":[
+            {
+                "id":1,
+                "off_text":"40% off full priced items",
+                "image":"ITEM1",
+                "backgroundImage":"ITEM1BACK",
+                "earn_upto":"Earn up to 1,000 coins for your stash"
+            },
+            {
+                "id":2,
+                "off_text":"$50 off $199+ on contact lenses plus free standard delivery",
+                "image":"ITEM2",
+                "backgroundImage":"ITEM2BACK",
+                "earn_upto":"Earn up to 2,000 coins for your stash"
+            },
+            {
+                "id":3,
+                "off_text":"$50 off $199+ on contact lenses plus free standard delivery",
+                "image":"ITEM2",
+                "backgroundImage":"ITEM2BACK",
+                "earn_upto":"Earn up to 2,000 coins for your stash"
+            }
+        ]
+    },
+    "nelune_foundation_resource":{
+        "likes":"609",
+        "image":"NELUNE",
+        "description":"mWallet proudly supports the Nelune Foundation. Helping patients fight Cancer with Dignity."
+    },
+    "challenge_accepted_resource":{
+        "likes":"609",
+        "image":"CHALLENGEACCEPTED",
+        "description":"Get cracking on your next mWallet challenge to earn more rewards!"
+    }
+}
